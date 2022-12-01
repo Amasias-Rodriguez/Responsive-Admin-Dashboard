@@ -364,6 +364,7 @@ body{
         left: -300px;
     }
     .navigation.active{
+        width: 300px;
         left: 0;
     }
     .main{
